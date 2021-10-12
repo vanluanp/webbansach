@@ -1,0 +1,7 @@
+﻿Internet Của Tiền Tệ
+
+Cuốn sách là tập hợp các bài nói chuyện của Andreas M. Antonopoulos, một trong những chuyên gia hàng đầu thế giới về blockchain và bitcoin. Những bài nói chuyện của ông đã góp phần giúp cho một lĩnh vực vẫn còn mới mẻ, lạ lẫm và phức tạp như blockchain và bitcoin trở nên dễ hiểu và gần gũi hơn.
+
+Trong cuốn sách này, tác giả sẽ lý giải tại sao bitcoin lại là một bước đột phá về công nghệ và tài chính với những tiềm năng vượt ra ngoài tên gọi “tiền kỹ thuật số” của nó hiện nay.
+
+Đặc biệt, tác giả còn mở rộng vấn đề, bàn đến những ý nghĩa về mặt triết học, xã hội và lịch sử của bitcoin, cho thấy bitcoin – mạng internet của tiền – đã và đang mang đến những thay đổi cơ bản ra sao đối với cách thức chúng ta xử lý những vấn đề về xã hội, chính trị, và kinh tế thông qua mạng lưới phi tập trung phi tín nhiệm của bitcoin.
